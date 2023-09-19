@@ -1,4 +1,4 @@
-# Python EDA+ML
+# Python EDA+ML+DataViz
 
 **В данном репозитории хранятся:**
 
